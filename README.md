@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Hand Microbiome as Cultural Preservation & Social Identity
+We intend to create an archival system to collect hand microbiome and create a series of food items. The presentation will be in the form of a physical and instructional kit. We hope to break away from the pathological perspective of hand microbiome, and explore the cultural and social implications of hand microbiome as an identification tool.
 
-You can use the [editor on GitHub](https://github.com/microarchive/Miocro-Archival-Kit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Potential food items:
+- Cheese
+- Sourdough
+- Tofu
+- Soy sauce
+- etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/microarchive/Miocro-Archival-Kit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Potential sampler: 
+- Family (Lineage and microbiome evolution “book”)
+- Chef (For professional use)
