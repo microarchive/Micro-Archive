@@ -1,7 +1,7 @@
 ---
-title: 01: Material Research
-parent: Progress
-has_children: true
+title: Material Research
+layout: default
+parent: progress
 nav_order: 1
 ---
 
