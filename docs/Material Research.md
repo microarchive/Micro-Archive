@@ -1,7 +1,7 @@
 ---
 title: Material Research
 layout: default
-parent: progress
+parent: Progress
 nav_order: 1
 ---
 
