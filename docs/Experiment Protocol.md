@@ -1,8 +1,7 @@
 ---
 title: Experiment Protocol
-parent: Material Research
-grand_parent: Test
-nav_order: 1
+parent: Progress
+nav_order: 2
 ---
 
 # Experiment Protocol
