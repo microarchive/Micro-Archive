@@ -1,10 +1,10 @@
 ---
-title: Child of Test
-parent: Test
+title: 01: Material Research
+parent: Progress
 has_children: true
 nav_order: 1
 ---
 
-# Child of test
+# Material Research
 
 I am a child page.
