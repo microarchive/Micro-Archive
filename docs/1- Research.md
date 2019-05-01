@@ -1,5 +1,5 @@
 ---
-title: Scientific Research
+title: Research
 has_children: true
 nav_order: 2
 ---
