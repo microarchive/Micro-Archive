@@ -1,5 +1,5 @@
 ---
-title: Technology Research & Experiment
+title: Scientific Research
 has_children: true
 nav_order: 2
 ---
