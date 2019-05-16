@@ -35,5 +35,5 @@ nav_order: 4
 A) Area for microbiome preservation 
 
 ![Imgur](https://i.imgur.com/RW5nhvN.jpg)
-![Imgur](https://i.imgur.com/1ODhzfy.jpg)
+![Imgur](https://i.imgur.com/au2zOHE.jpg)
 B) Area for cultural and educational program
