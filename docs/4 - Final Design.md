@@ -5,7 +5,10 @@ nav_order: 4
 ---
 
 # Final Design
+[Demo](https://vimeo.com/336161134) 
+![Imgur](https://i.imgur.com/RsPAemd.png)
 
+# Prototype
 ![Imgur](https://i.imgur.com/B9Brx0L.jpg)
 ![Imgur](https://i.imgur.com/N3JbwlP.jpg)
 ![Imgur](https://i.imgur.com/A88yrFd.jpg)
@@ -20,3 +23,12 @@ nav_order: 4
 #### C) Receipes for different fermented food and record which hand microbiome sample is used in cooking
 ![Imgur](https://i.imgur.com/aA2rxzH.jpg)
 ![Imgur](https://i.imgur.com/5S5vkyS.jpg)
+
+# Architecture Design
+## Key Function
+- Microbiome preservation
+- Cultural and educational program about microbiome
+
+## Sketch
+![Imgur](https://i.imgur.com/p8VD7li.jpg)
+![Imgur](https://i.imgur.com/RW5nhvN.jpg)
