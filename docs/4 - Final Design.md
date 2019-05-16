@@ -6,7 +6,8 @@ nav_order: 4
 
 # Final Design
 [Demo](https://vimeo.com/336161134) 
-![Imgur](https://i.imgur.com/RsPAemd.png)
+![Imgur](https://i.imgur.com/VVbYHpd.png)
+![Imgur](https://i.imgur.com/wIJmcDw.png)
 
 # Prototype
 ![Imgur](https://i.imgur.com/B9Brx0L.jpg)
