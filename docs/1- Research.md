@@ -6,6 +6,8 @@ nav_order: 2
 
 # Progress
 
-The documentation of our technology research progress. 
+### Sourdough Hands
 ![Imgur](https://i.imgur.com/Ao4DxbV.jpg)
+
+### Jiwon Woo "Mother's Hand Taste"
 ![Imgur](https://i.imgur.com/4LYT9mP.jpg)
