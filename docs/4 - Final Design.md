@@ -31,7 +31,9 @@ nav_order: 4
 
 ## Sketch
 ![Imgur](https://i.imgur.com/p8VD7li.jpg)
+![Imgur](https://i.imgur.com/5sXBvEO.jpg)
 A) Area for microbiome preservation 
 
 ![Imgur](https://i.imgur.com/RW5nhvN.jpg)
+![Imgur](https://i.imgur.com/1ODhzfy.jpg)
 B) Area for cultural and educational program
