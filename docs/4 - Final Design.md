@@ -14,6 +14,8 @@ nav_order: 4
 # Information Design
 ![Imgur](https://i.imgur.com/TTUd5XB.jpg)
 ![Imgur](https://i.imgur.com/5Bvt8K9.jpg)
+### Record each time hand microbiome is collected
 ![Imgur](https://i.imgur.com/egL6KgQ.jpg)
+### Receipes for different fermented food and record which hand microbiome sample is used in cooking
 ![Imgur](https://i.imgur.com/aA2rxzH.jpg)
 ![Imgur](https://i.imgur.com/5S5vkyS.jpg)
