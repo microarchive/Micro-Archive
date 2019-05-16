@@ -7,8 +7,8 @@ nav_order: 2
 # Overview
 ## Objective:
 ```scss
-- Shift understanding of hand microbiome from pathogen-dominated concept
-- Explore socio-cultural implication of hand microbiome
+- A shift in understanding of hand microbiome from pathogen-dominated concept
+- Socio-cultural implication of hand microbiome
 ```
 
 ### Sourdough Hands
