@@ -1,8 +1,6 @@
 ---
-title: Human Impact
-layout: default
-parent: Design Analysis
-nav_order: 1
+title: Impact
+nav_order: 5
 ---
 
 # Human Impact
@@ -27,4 +25,16 @@ nav_order: 1
 - Concerns about the safety of food products made from human microbiome and the notion of byproducts of human
 - Is this a relevant conversation for places where they are at a stage of development where sanitary issues is a concern and hence had to adopt an antibacterial perspective in their communities 
 
+
+# Suatainability
+## Environment
+- Use of natural materials, such as hemp, cotton, and degraddable plastics
+  
+## Stakehodler 
+- Re-usable products
+- No waste
+
+## Public
+- Increase the appreciation and awareness of "cooking with hand" as cultural heritage
+- Encourage audience to rethink the identity of human from the perspective of nature and micro-organism
 
