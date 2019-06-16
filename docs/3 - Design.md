@@ -25,5 +25,6 @@ nav_order: 3
 - Collect hand microbiome with fabric
 - Transfer microbiome on fabric to culture solution
 - Store the microbiome solution
+- Make record on microbiome lineage book
 - Use the microbiome solution to wash hands before cooking
 ![Image](https://imgur.com/ephdJOi.png)
