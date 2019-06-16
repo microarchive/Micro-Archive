@@ -27,4 +27,4 @@ nav_order: 3
 - Store the microbiome solution
 - Make record on microbiome lineage book
 - Use the microbiome solution to wash hands before cooking
-![Image](https://imgur.com/ephdJOi.png)
+![Imgur](https://i.imgur.com/WWxJAgF.png)
