@@ -1,9 +1,4 @@
----
-title: Material Research
-layout: default
-parent: Research
-nav_order: 1
----
+Abandoned
 
 # Material Research
 
