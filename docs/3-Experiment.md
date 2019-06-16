@@ -1,8 +1,7 @@
 ---
 title: Experiment
-layout: default
-parent: Research
-nav_order: 2
+has_children: true
+nav_order: 3
 ---
 
 # Experiment Protocol
