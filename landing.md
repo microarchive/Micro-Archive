@@ -7,7 +7,7 @@ permalink: /
 ## What is HANDMADE?
 Handmade is an archival system created to explore the socio-cultural implications of hand microbiome, and to design an interaction to make our implicit relationship with microbiome visible.
 
-### [Video](https://vimeo.com/336161134) 
+### [Link to the Video](https://vimeo.com/336161134) 
 ![Imgur](https://i.imgur.com/kdnEN7m.png)
 
 ## Objective:
