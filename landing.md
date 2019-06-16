@@ -2,11 +2,15 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
+## What is HANDMADE?
+It is an archival system to explore the socio-cultural implications of hand microbiome. It comes with an interaction design to make visible our implicit relationship with microbiome.
+![Imgur](https://i.imgur.com/J1bGEie.jpg)
+
 ## Hand Microbiome as Cultural Preservation & Social Identity
 We intend to create an archival system to collect hand microbiome and create a series of food items. The presentation will be in the form of a physical and instructional kit. We hope to break away from the pathological perspective of hand microbiome, and explore the cultural and social implications of hand microbiome as an identification tool.
+![Imgur](https://i.imgur.com/THtbXlW.png)
 
 ### Potential food items:
 - Cheese
